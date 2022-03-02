@@ -43,7 +43,7 @@ root.title("Instagram Downloader")
 root.minsize(800,500)
 root.maxsize(800,500)
 HEIGHT= 500
-WIDTH= 200
+WIDTH= 100
 FONT= font.Font(family = "Times New Roman", size = "18", weight="bold")
 
 canvas = Canvas(root, height = HEIGHT, width= WIDTH)
@@ -83,7 +83,7 @@ button1.place(relx=0.84, rely=0.4, relwidth=0.08,relheight=0.1)
 
 
 
-#label2= Label(frame, text="Instructions: ", font= FONT, bd=5, fg="#cd486b",bg="#8134af", justify="center")
+#label2 = Label(frame, text="Instructions: ", font= FONT, bd=5, fg="#cd486b",bg="#8134af", justify="center")
 #label2.place(relx=0.68, rely=0.45, relheight=0.1)
 
 #FONT= font.Font(family="Times New Roman", size="10", weight= "bold")
