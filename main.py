@@ -43,7 +43,7 @@ root.title("Instagram Downloader")
 root.minsize(800,500)
 root.maxsize(800,500)
 HEIGHT= 500
-WIDTH= 200
+WIDTH= 100
 FONT= font.Font(family = "Times New Roman", size = "18", weight="bold")
 
 canvas = Canvas(root, height = HEIGHT, width= WIDTH)
